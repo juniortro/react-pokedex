@@ -1,0 +1,11 @@
+.navbar {
+    padding: 20px;
+    background: linear-gradient(to right,#000,#f22);
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    position: relative;
+}
